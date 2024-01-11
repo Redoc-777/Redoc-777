@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahmane kalmoun</h1>
 <h3 align="center">A passionate It Student</h3>
 
-- 🔭 I’m currently working on **VMware**
+- 🔭 I’m currently working on **Devops Pipelines**
 
 - 🌱 I’m currently learning **Big Data**
 
